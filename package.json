@@ -1,12 +1,12 @@
 {
-  "name": "react-native-progress-circle",
-  "version": "2.1.0",
+  "name": "react-native-progress-circle-2023",
+  "version": "2.1.1",
   "description": "A light-weight progress circle indicator for React Native.",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:MrToph/react-native-progress-circle.git"
+    "url": "git@github.com:Nattress98/react-native-progress-circle.git"
   },
   "keywords": [
     "react",
@@ -16,7 +16,7 @@
     "progress",
     "indicator"
   ],
-  "author": "Christoph Michel",
+  "author": "Andrew Nattress",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^7.2.1",
@@ -34,5 +34,8 @@
     "react-native": "*",
     "react": "*",
     "prop-types": "*"
+  },
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0"
   }
 }

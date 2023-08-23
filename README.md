@@ -15,16 +15,16 @@
 
 ## Installation
 
-`yarn add react-native-progress-circle`
+`yarn add react-native-progress-circle-2023`
 
 or
 
-`npm install --save react-native-progress-circle`
+`npm install --save react-native-progress-circle-2023`
 
 ## Usage
 
 ```javascript
-import ProgressCircle from 'react-native-progress-circle'
+import ProgressCircle from 'react-native-progress-circle-2023'
 
 render() {
     return (
@@ -55,9 +55,11 @@ render() {
 | containerStyle | The custom styling which will be applied to the container of the `children` | Style |  | `null` |
 | outerCircleStyle | The custom styling which will be applied to the outer circle | Style |  | `null` |
 
-## Author
+## Original Author
 
 [Christoph Michel](http://cmichel.io)
+
+Ported to deprecated-react-native-prop-types by me.
 
 ## Implementation Details
 
